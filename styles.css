@@ -1,0 +1,44 @@
+/* header section */
+.head-container{
+    background: rgba(229, 84, 115, 0.10);
+    display: flex;
+    justify-content: space-between;
+    gap: 95px;
+    align-items: center;
+    }
+.head-title{
+    margin-left: 240px;
+}
+.head-img{
+     margin-top: 50px;
+    margin-right: 240px;
+    width: 635px;
+
+    
+    
+}
+
+.head-bar{
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+    margin-bottom: 0px; 
+   
+
+}
+.head-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    font-weight: 410;
+    margin-top: 25px;
+}
+.btn-primary{
+    color: white;
+    background-color: #E55473;
+    padding: 20px 40px;
+    border-radius: 6px;
+    border: none;
+    margin-top: 15px;
+
+}
